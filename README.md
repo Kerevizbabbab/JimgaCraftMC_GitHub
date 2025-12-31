@@ -4,7 +4,7 @@
 # Hoşgeldiniz! Bu Depoda Jimga Web, Jimga Craft MC - LAN Server ve Jimga Craft MC İP + Port'u Bulabilirsiniz.
 ---
 # Jimga Craft MC İP + Port:
-Sunucumuzun İP'si: JimgaCraftMC.aternos.me
+Sunucumuzun İP'si: JimgaCraftMC.aternos.me:29008
 Java Port: 29008
 Bedrock Port: 19132
 ---
